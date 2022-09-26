@@ -1,4 +1,4 @@
-### Hi there 👋 I am Jean Robert Twagiramungu,
+### Hi there 👋 I am Robert Twagiramungu,
 
 <!--
 **TwagRobert/TwagRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
