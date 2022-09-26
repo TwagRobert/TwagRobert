@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Jean Robert Twagiramungu,
 
 <!--
 **TwagRobert/TwagRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am junior fullstack developer. I am comfortable with:
+
+❄️ Reactjs,Bootstrap, Ant Design, Material UI, Redux, Tailwind,Surge, Javascript, Typescript, OOP, Nodejs, MongoDB, PostgreSQL.
+
+👯 I’m looking to collaborate on front-end/back-end/fullstack projects
+📫 How to reach me:
+📱 twagrobert2000@gmail.com
