@@ -20,5 +20,7 @@ I am junior fullstack developer. I am comfortable with:
 ❄️ Reactjs,Bootstrap, Ant Design, Material UI, Redux, Tailwind,Surge, Javascript, Typescript, OOP, Nodejs, MongoDB, PostgreSQL.
 
 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
+
 📫 How to reach me:
+
 📱 twagrobert2000@gmail.com
