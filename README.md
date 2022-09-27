@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 I am junior fullstack developer.
 
 ⚡My Front-end Projects:
+
 Car Showroom: https://car-showroom.surge.sh/
 
 I am comfortable with:
 
-❄️ Reactjs,Bootstrap, Ant Design, Material UI, Redux, Tailwind,Surge, Javascript, Typescript, OOP, Nodejs, MongoDB, PostgreSQL.
+❄️ Reactjs,Bootstrap, Ant Design, Material UI, Redux, Surge, Javascript, Typescript, OOP, Nodejs, MongoDB, PostgreSQL.
 
 👯 I’m looking to collaborate on front-end/back-end/fullstack projects
 
