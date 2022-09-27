@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am junior fullstack developer. I am comfortable with:
+I am junior fullstack developer.
+
+⚡My Front-end Projects:
+Car Showroom: https://car-showroom.surge.sh/
+
+I am comfortable with:
 
 ❄️ Reactjs,Bootstrap, Ant Design, Material UI, Redux, Tailwind,Surge, Javascript, Typescript, OOP, Nodejs, MongoDB, PostgreSQL.
 
