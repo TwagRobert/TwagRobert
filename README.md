@@ -19,7 +19,7 @@ I am junior fullstack developer.
 
 ⚡My Front-end Projects:
 
-Car Showroom: https://car-showroom.surge.sh/
+Car Showroom (React JS): https://car-showroom.surge.sh/
 
 I am comfortable with:
 
