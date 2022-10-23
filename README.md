@@ -25,7 +25,7 @@ Light / Dark Mode switch and To Do List (React JS): https://theme-todolist.surge
 
 Shopping cart : https://shoppingcart-feature.surge.sh/
 
-Sunglass showroom: sunglass-showroom.surge.sh/
+Sunglass showroom: https://sunglass-showroom.surge.sh/
 
 I am comfortable with:
 
