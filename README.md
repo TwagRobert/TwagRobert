@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am junior fullstack developer.
+I am fullstack developer.
 
 ⚡My Front-end Projects:
 
